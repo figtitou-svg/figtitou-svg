@@ -1,4 +1,4 @@
-# Hi, I'm Titouan 👋
+# Hi, I'm Titouan 
 
 *[Français plus bas](#fr)*
 
