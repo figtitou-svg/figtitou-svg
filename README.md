@@ -23,7 +23,7 @@ Tests first, honest limits (every trading project here is simulated), failing vi
 
 <a id="fr"></a>
 
-# Salut, moi c'est Titouan 👋
+# Salut, moi c'est Titouan 
 
 Élève-ingénieur à l'INSA Lyon. J'aime construire des **outils complets, pas des démos** : testés, déployés sur une petite VM et utilisés au quotidien.
 
